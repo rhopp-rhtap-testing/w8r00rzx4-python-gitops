@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: w8r00rzx4-python-gitops-repository
+spec:
+  url: https://github.com/rhopp-rhtap-testing/w8r00rzx4-python-gitops
